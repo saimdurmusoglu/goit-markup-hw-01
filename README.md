@@ -1,3 +1,1 @@
-# goit-markup-hw-01
-
-ilk ödev projem
+# goit-markup-hw-02
